@@ -4,9 +4,12 @@
 
 ### Build
 
-
-    docker build -t  nmap/upstream:latest . # Will be named nmap/upstream:latest
-																  #Feel free to chose any other name for it.
+```
+docker build -t  nmap/upstream:latest . # Will be named nmap/upstream:latest
+                                        #Feel free to chose any other name for it.
+```
+														
+														``
 
 ### Usage
 
