@@ -1,6 +1,6 @@
 ### Features
 
--Builds the latest greatest nmap from source into a docker container - on the latest Ubuntu
+-Builds the latest greatest nmap from source into a docker container - on the latest LTS Ubuntu
 
 ### Build
 
